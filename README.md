@@ -71,9 +71,6 @@ The Revenue Manager of a hotel chain is losing revenue due to booking cancellati
 * MySQL
 * SQL
 * Power BI
-* Data Cleaning
-* Data Visualization
-* Business Analysis
 
 ---
 
